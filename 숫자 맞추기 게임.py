@@ -1,3 +1,5 @@
+#숫자 맞추기 게임
+
 import random
 import os
 
